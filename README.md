@@ -1,4 +1,4 @@
-![](portada_EDA)
+![](portada_EDA.png)
 
 # EDA-Capital-Bikeshare-
 El uso de sistemas de bicicletas compartidas,ha experimentado un crecimiento notable en los últimos años en muchas ciudades, convirtiéndose en una alternativa ecológica y accesible para la movilidad urbana. 
